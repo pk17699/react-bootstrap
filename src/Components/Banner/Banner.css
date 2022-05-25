@@ -1,0 +1,10 @@
+.banner{
+    width: 30%;
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 5%;
+}
+.banner button{
+    margin: 2px;
+}
